@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AD8E2F04-B918-4BC4-B970-9878C313C57E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PrintLabel</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CDCA2EDE-82B9-4406-B360-EA76C899D7C3</key>
+		<string>svn+ssh://svn.apple.com/svn/witnit/PrintKitApps/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SampleCode/PrintLabel/PrintLabel.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CDCA2EDE-82B9-4406-B360-EA76C899D7C3</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>CDCA2EDE-82B9-4406-B360-EA76C899D7C3</key>
+		<string>svn+ssh://svn.apple.com/svn/witnit</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn+ssh://svn.apple.com/svn/witnit/PrintKitApps/trunk/SampleCode/PrintLabel/PrintLabel.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>108</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CDCA2EDE-82B9-4406-B360-EA76C899D7C3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>PrintKitApps/branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>PrintKitApps/tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>PrintKitApps/trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CDCA2EDE-82B9-4406-B360-EA76C899D7C3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PrintKitApps-Clean</string>
+		</dict>
+	</array>
+</dict>
+</plist>
